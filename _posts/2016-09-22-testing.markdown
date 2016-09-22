@@ -9,3 +9,6 @@ This is a test entry for testing purposes. That's all we're doing here. Testing 
 
 ##But now...
 I still don't like tests. I like testing myself - testing my abilities - what I can do with what I've learned. If it's a test about something I'm interested about, then I don't have any problem with it.
+
+-----
+I work at [INQUIRER.net](https://inquirer.net).
